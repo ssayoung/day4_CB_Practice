@@ -6,6 +6,6 @@ function ConceptItem(props) {
       <p>{props.description}</p>
     </li>
   );
-}
+} 
 
 export default ConceptItem;
